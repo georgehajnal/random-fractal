@@ -1,0 +1,1 @@
+add -lgdi32 to linker options. (in CodeBlocks that is: Build Options/Linker Settings/Other linker options)
