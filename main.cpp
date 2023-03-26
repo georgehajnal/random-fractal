@@ -1,9 +1,9 @@
 #include <iostream>
 #include <windows.h>
 #include <ctime>
-//cat de mare sa fie ecranul
+//scale of the drawing on screen
 #define scale 1
-//cate celule au liniile si coloanele matricei
+//size of the matrix
 #define siz 50
 using namespace std;
 HDC dng = GetDC(0);
